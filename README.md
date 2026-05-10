@@ -5,7 +5,6 @@ This project classifies Iris flowers using machine learning models in a Jupyter 
 ## Project Files
 
 - `app.ipynb` - Main notebook for data loading, exploration, visualization, model training, evaluation, and prediction.
-- `.venu` - Project marker file.
 
 ## What The Notebook Does
 
